@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 # <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wndgndi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wndgndi)](https://github.com/anuraghazra/github-readme-stats)
