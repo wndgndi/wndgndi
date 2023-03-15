@@ -14,6 +14,5 @@
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://blog.naver.com/wndgndi)](https://blog.naver.com/wndgndi)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wndgn456@gmail.com)](mailto:wndgn456@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wndgndi@naver.com)](mailto:wndgndi@naver.com)
